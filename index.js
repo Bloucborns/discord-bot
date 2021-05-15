@@ -213,4 +213,4 @@ Client.on("message", message => {
       }
 })
 
-Client.loginr(process.env.TOKEN);
+Client.login(process.env.TOKEN);
