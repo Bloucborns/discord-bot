@@ -1,17 +1,16 @@
 {
     "name": "tutobot",
+    "version": "",
     "description": "",
-    "version": "1.0.0",
-    "engines":{
-        "node": "14.x"
+    "main": "index.js",
+    "author": "Pentiminax",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "12.5.3"
     },
     "scripts": {
         "start": "node index.js"
     }
+
 }
-
-  
-     
-
-    
    
