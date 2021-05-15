@@ -213,7 +213,4 @@ Client.on("message", message => {
       }
 })
 
-
-
-Client.login("ODE2MzgyMzEyMTU2NDk1ODgz.YD6JRg.Ju2xB5yn7YuKU2C2JIiQlZz3SxI");
 Client.loginr(process.env.TOKEN);
